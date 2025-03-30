@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">Sou Diana Vitória, uma entusiasta da Ciência da Computação, apaixonada por tecnologia e sempre em busca de novos desafios. 
+<p align="center">Sou Diana Vitória, uma entusiasta da Engenharia de Software, apaixonada por tecnologia e sempre em busca de novos desafios. 
 Recomeçando minha trajetória e acreditando que o trabalho duro é o que transforma um sonho em realidade e que, a cada código, estou mais perto de alcançar meus objetivos.</p>
 
 ###
@@ -18,7 +18,7 @@ Recomeçando minha trajetória e acreditando que o trabalho duro é o que transf
 
 ###
 
-<p align="left">👩‍💻 Ciência da Computação | 1 / 8<br>🚀 Explorando: IA, cibersegurança, dados e desenvolvimento<br>☕ Movida a café e supervisionada por dois gatos 🐱🐾<br>🎯 Objetivos: 1% melhor a cada dia<br>📚 Sempre aprendendo: Algo novo a cada linha de código</p>
+<p align="left">👩‍💻 Engenharia de Software | 1 / 8<br>🚀 Explorando: IA, cibersegurança, dados e desenvolvimento<br>☕ Movida a café e supervisionada por dois gatos 🐱🐾<br>🎯 Objetivos: 1% melhor a cada dia<br>📚 Sempre aprendendo: Algo novo a cada linha de código</p>
 <br clear="both">
 
 <p align="right">“O trabalho duro vence o dom natural!”
